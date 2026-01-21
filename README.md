@@ -11,7 +11,7 @@ Task:
 
 Please create a new branch with <your_name> and push your weekly submissions there.  
 
-Contributors:
+Contributors:  
 SaiShree Taluri - EP25B032  
 Divyant Jayakumar - CS25B024  
 Krishiv - EE25B074  
