@@ -1,0 +1,21 @@
+Analysis Of Chunking Strategies
+
+Fixed-length chunking
+Text is split purely on character count
+Pros
+- Very fast process
+- Simple
+Cons
+- Context might get broken
+- Semantics of the chunk might be lost 
+
+Recursive Character Text Splitter
+Hierarchical splitter that tries to split text first by paragraph breaks going all the way down to characters. 
+Pros
+- Structure of the text like sentences and paras are preserved
+Cons
+- Slower process
+- Not truly semantic but better
+
+Task 3 notebook
+https://colab.research.google.com/drive/1c3WOlZ_50ThBBkIFekGMgEmaneRYuzLz?usp=sharing
