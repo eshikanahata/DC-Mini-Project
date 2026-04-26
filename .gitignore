@@ -13,3 +13,5 @@ __pycache__/
 
 # Ignore large data files if they aren't needed
 # task5/data/story/
+
+**/__pycache__/
