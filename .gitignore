@@ -1,0 +1,15 @@
+# Ignore Vector DBs and SQLite files (The 100MB+ culprits)
+*.sqlite3
+vectordb/
+data_level0.bin
+*.bin
+
+# Ignore Python junk
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data files if they aren't needed
+# task5/data/story/
