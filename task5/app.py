@@ -297,6 +297,7 @@ def parse_verdict(text, *, undecided=-1):
     return _parse_binary_verdict(text, undecided=undecided)
 
 
+
 def parse_verdict_cot(text, *, undecided=-1):
     return _parse_binary_verdict(text, undecided=undecided)
 
